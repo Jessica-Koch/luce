@@ -1,0 +1,20 @@
+IlluminateIntent turn {on|onoff} {one|light}
+IlluminateIntent turn {off|onoff} {one|light}
+IlluminateIntent turn {on|onoff} {two|light}
+IlluminateIntent turn {off|onoff} {two|light}
+IlluminateIntent turn {on|onoff} {three|light}
+IlluminateIntent turn {off|onoff} {three|light}
+IlluminateIntent {one|light}
+IlluminateIntent {two|light}
+IlluminateIntent {three|light}
+IlluminateIntent help
+IlluminateIntent help me
+IlluminateIntent what can I ask you
+IlluminateIntent get help
+IlluminateIntent to help
+IlluminateIntent to help me
+IlluminateIntent what can you do
+IlluminateIntent what do you do
+IlluminateIntent how do I use you
+IlluminateIntent how can I use you
+IlluminateIntent what can you tell me
